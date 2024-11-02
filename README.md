@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Chatterleaf seedling] 🎯
+# [Chatterleaf 🌿] 
 
 
 ## Basic Details
@@ -13,8 +13,7 @@
 - Member 3: [Hansel Sabu] - [Toc H Institute of Science and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
-
+[This project is an agricultural iot project which features a smart plant monitoring system which is a unique mix of humour and automation. A funny text is generated based on the sensed moisture level. When the soil is too dry, a pump starts to kick in water automatically.]
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
 
