@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [] 🎯
 
 
 ## Basic Details
@@ -8,7 +8,7 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [Aiswarya Chandrasekharan] - [Toc H Institute of Science and Technology]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
