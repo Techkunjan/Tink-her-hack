@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [] 🎯
+# [Chatterleaf seedling] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Ohmies]
 
 
 ### Team Members
 - Team Lead: [Aiswarya Chandrasekharan] - [Toc H Institute of Science and Technology]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 2: [Bhavana V Nair] - [Toc H Institute of Science and Technology]
+- Member 3: [Hansel Sabu] - [Toc H Institute of Science and Technology]
 
 ### Project Description
 [2-3 lines about what your project does]
