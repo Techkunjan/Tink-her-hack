@@ -4,16 +4,16 @@
 
 
 ## Basic Details
-### Team Name: [Ohmies]
+### Team Name: Ohmies
 
 
 ### Team Members
-- Team Lead: [Aiswarya Chandrasekharan] - [Toc H Institute of Science and Technology]
-- Member 2: [Bhavana V Nair] - [Toc H Institute of Science and Technology]
-- Member 3: [Hansel Sabu] - [Toc H Institute of Science and Technology]
+- Team Lead: Aiswarya Chandrasekharan - Toc H Institute of Science and Technology
+- Member 2: Bhavana V Nair - Toc H Institute of Science and Technology
+- Member 3: Hansel Sabu - Toc H Institute of Science and Technology
 
 ### Project Description
-[This project is an agricultural iot project which features a smart plant monitoring system which is a unique mix of humour and automation. A funny text is generated based on the sensed moisture level. When the soil is too dry, a pump starts to kick in water automatically.]
+This project is an agricultural iot project which features a smart plant monitoring system which is a unique mix of humour and automation. A funny text is generated based on the sensed moisture level. When the soil is too dry, a pump starts to kick in water automatically.
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
 
