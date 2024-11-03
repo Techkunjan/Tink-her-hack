@@ -115,54 +115,29 @@ void loop() {
   }
 
 }
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1ddWoXW-zFaZ6j5GpWGfv9ei2csh6yZv6/view?usp=drive_link
+https://drive.google.com/file/d/1dgusjYAbsjLGWPfnBxkueIH8HfS9JCbv/view?usp=drive_link
+https://drive.google.com/file/d/1dmxq_QOneB3a5DAoOTjhRLQ5Ysm--aPo/view?usp=drive_link
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+https://drive.google.com/file/d/1e1Vgonk0xhUORCTM7JKa0rSO-ttr8pns/view?usp=drive_link
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+https://drive.google.com/file/d/1dmaIj5yNJ6IQqZt149YFFj3E92rKBwbo/view?usp=drive_link
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/file/d/1e7-SVXSqsPOIYsoefA8PdBzncEnUeG5r/view?usp=drive_link
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1e2k4DTSOamqWUVk3j8SG0aOnZzm0iKUR/view?usp=drive_link
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aiswarya Chandrasekharan : Blynk Set up
+- Bhavana V Nair : Circuit Connection
+- Hansel Sabu : Documentation & Debugging
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
