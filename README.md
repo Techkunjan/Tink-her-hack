@@ -1,6 +1,4 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
-
-# Chatterleaf 🌿
+# ALU DESIGN
 
 
 ## Basic Details
@@ -10,10 +8,11 @@
 ### Team Members
 - Team Lead: Aiswarya Chandrasekharan - Toc H Institute of Science and Technology
 - Member 2: Bhavana V Nair - Toc H Institute of Science and Technology
-- Member 3: Hansel Sabu - Toc H Institute of Science and Technology
 
 ### Project Description
-This is an IoT based agricultural automation project which focus on plant monitoring system. It measures the temperature and humidity of the atmosphere providing real time values which helps the plant moms/dads to know about the situations which their plant goes through. It can be extended to agricultural  sector as well. But the primary aim is to understand the various moods of plant based on the moisture level of the soil. Thus the plant moms/dads will know what their child goes through. Since plant cannot be watered the same everyday , it requires to be watered when it needs . Thus the plant watering is automated so that the plant is happy.
+This project focuses on the design and construction of 4 bit Arithmetic and Logic Unit (ALU) using Xilinx Vivado
+
+
 ### The Problem (that doesn't exist)
 Justice for the Unspoken.
 
