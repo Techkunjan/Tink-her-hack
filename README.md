@@ -108,18 +108,13 @@ end
 endmodule
 
 # Documentation
-
+https://drive.google.com/file/d/1RGmW7a_dJqSn0B4iuq0hJcFDgJ7F3vYj/view?usp=drive_link
 
 # Diagrams
-https://drive.google.com/file/d/1e1Vgonk0xhUORCTM7JKa0rSO-ttr8pns/view?usp=drive_link
+https://drive.google.com/file/d/1RGmW7a_dJqSn0B4iuq0hJcFDgJ7F3vYj/view?usp=drive_link
 
 # Schematic & Circuit
-https://drive.google.com/file/d/1dmaIj5yNJ6IQqZt149YFFj3E92rKBwbo/view?usp=drive_link
-
-## Team Contributions
-- Aiswarya Chandrasekharan : Blynk Set up
-- Bhavana V Nair : Circuit Connection
-- Hansel Sabu : Documentation & Debugging
+https://drive.google.com/file/d/1RGmW7a_dJqSn0B4iuq0hJcFDgJ7F3vYj/view?usp=drive_link
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
